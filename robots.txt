@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://YieldCalculator.doodax.com/sitemap.xml
