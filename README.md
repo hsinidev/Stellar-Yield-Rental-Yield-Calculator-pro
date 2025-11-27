@@ -16,7 +16,7 @@
   </p>
 
   <h3>
-    🚀 <a href="https://YieldCalculator.doodax.com" target="_blank"><strong>LIVE DEMO: YieldCalculator.doodax.com</strong></a> 🚀
+    🚀 <a href="https://doodax.com/tools/stellar-yield-calculator/index.html" target="_blank"><strong>LIVE DEMO:doodax.com</strong></a> 🚀
   </h3>
 </div>
 
